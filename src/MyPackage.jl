@@ -1,5 +1,7 @@
 module MyPackage
 
-# Write your package code here.
+using LinearAlgebra: norm
+
+include("myfile.jl")
 
 end
