@@ -1,3 +1,5 @@
+export f
+
 function f(x)
     function f_sub(y)
         return norm(y)
