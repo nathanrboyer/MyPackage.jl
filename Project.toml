@@ -1,0 +1,13 @@
+name = "MyPackage"
+uuid = "4b534a9b-95fe-4f3b-b528-1540bd55ee28"
+authors = ["nathanrboyer <nathanrobertboyer@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
