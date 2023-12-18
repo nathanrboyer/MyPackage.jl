@@ -1,6 +1,6 @@
 module MyPackage
 
-using LinearAlgebra: norm
+using Statistics
 
 include("myfile.jl")
 
